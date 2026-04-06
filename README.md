@@ -61,10 +61,10 @@ I care about **code organization, scalability, and understanding how systems beh
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luancal&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luancal&layout=compact&theme=github_dark&hide_border=true" height="170" />
-</div>
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="170" />
+</p>
 
 ---
 
