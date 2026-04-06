@@ -30,22 +30,22 @@ I care about **code organization, scalability, and understanding how systems beh
 <p align="center">
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E3350D?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-228B22?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-8B0000?style=for-the-badge&labelColor=5A0000"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6A00?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <br/>
 
 <!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-2F4F4F?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-FF8C00?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-FFD166?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-F77F00?style=for-the-badge&logo=mysql&logoColor=black"/>
 
 <br/>
 
 <!-- Frontend -->
-<img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-FFA500?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E3350D?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-F5A623?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/>
 
