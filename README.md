@@ -62,8 +62,9 @@ I care about **code organization, scalability, and understanding how systems beh
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luancal&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luancal&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luancal&show_icons=true&title_color=E3350D&icon_color=F5A623&text_color=FFD166&bg_color=0D1117" height="170"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=luancal&layout=compact&title_color=E3350D&text_color=FFD166&bg_color=0D1117" height="170"/>
 </p>
 
 ---
